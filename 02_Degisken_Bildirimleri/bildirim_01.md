@@ -15,4 +15,4 @@ int main()
 	long float x10;		-->	true
 }
 ```
-![bniteleyiciler](https://user-images.githubusercontent.com/18311596/147867255-790ec9d3-b24f-4a79-8fc5-9e3505b9cb5f.png)
+![vtipturev](https://user-images.githubusercontent.com/18311596/147867314-bca230eb-4de9-4449-90e1-de84fd10c2c8.png)
