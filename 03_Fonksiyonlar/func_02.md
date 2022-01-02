@@ -78,7 +78,7 @@ int main()
 	printf("Bir sayi giriniz...");
 		w = scanf("%f", &t);
 		array[3] = t;
-	printf("%lf - %lf - %lf", array[0], array[1], array[2]);
+	printf("%lf , %lf , %lf , %lf", array[0], array[1], array[2], array[3]);
 	_max3_(x, y, z);
 	return 0;
 }
