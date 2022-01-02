@@ -12,7 +12,6 @@ int day_of_year(int day, int mon, int year);
 /*	
 	author	: bc
 	date	: 02.01.2022
-	max component
 */
 #define _CRT_SECURE_NO_WARNINGS
 
